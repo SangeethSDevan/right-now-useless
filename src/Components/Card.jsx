@@ -27,7 +27,6 @@ function Card(props) {
                         setClicked(true);
 
                         let n = Math.floor(Math.random() * 50);
-                        console.log("randoomm: ", n);
                         const intervalId = setInterval(() => {
                             if (n > 0) {
                                 n--;

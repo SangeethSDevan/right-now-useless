@@ -6,16 +6,7 @@ import "./Todo.css"
 
 function Todo(props) {
     const [task, setTask] = useState("");
-    const [todos, setTodos] = useState([
-        {
-            id: 1,
-            name: "Buy Milk"
-        },
-        {
-            id: 2,
-            name: "Buy Bread"
-        }
-    ]);
+    const [todos, setTodos] = useState([]);
 
     const deleteTask = (id) => {
         setTodos(todos.filter(todo => todo.id !== id))
