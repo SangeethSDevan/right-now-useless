@@ -25,12 +25,12 @@ Our app provides random messages that allow you to get reasons for procastinatin
   -React JS
   
 # Installation
-Clone the repository: git clone https://github.com/S4xthhhhh/note-book.git
-Navigate to the project folder: cd right-now-useless
-Install dependencies: npm install
+1. Clone the repository: `git clone https://github.com/S4xthhhhh/note-book.git`
+2. Navigate to the project folder: `cd right-now-useless`
+3. Install dependencies: `npm install`
 # Run
-Start the website:npm run dev
-Open your browser and visit: http://localhost:5173
+1. Start the website:`npm run dev`
+2. Open your browser and visit: `http://localhost:5173`
 
 # Screenshots (Add at least 3)
 ![Screenshot1](https://drive.google.com/uc?export=view&id=1Pcgt3FqmUJ7jOdAPkYGprtxp0UZRiPfB)
