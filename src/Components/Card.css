@@ -1,0 +1,24 @@
+.card{
+    font-family: "Urbanist", sans-serif;
+    position: relative;
+    background-color: var(--dark-slate-gray);
+    margin-bottom: 10px;
+    display: flex;
+    justify-content: space-between;
+    padding: 5px 20px;
+    border-radius: 10px;
+    font-weight: 700;
+}
+.card .card-button{
+    display: flex;
+    gap: 10px;
+}
+.card .card-button button{
+    background-color: var(--paynes-gray);
+}
+.click{
+    background-color: var(--paynes-gray);
+}
+.complete{
+    text-decoration: line-through;
+}

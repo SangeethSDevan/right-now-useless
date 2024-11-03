@@ -1,3 +1,14 @@
+:root{
+  --thistle: #e3c0d3ff;
+  --mountbatten-pink: #95818dff;
+  --paynes-gray: #576066ff;
+  --dark-slate-gray: #2c514cff;
+  --gunmetal: #122932ff;
+}
 body{
+  margin: 0;
+  padding: 0;
+  color: whitesmoke;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background-color: var(--gunmetal);
 }

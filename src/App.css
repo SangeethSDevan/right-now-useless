@@ -1,0 +1,37 @@
+.head{
+    padding: 10px;
+    font-family: "Outfit", sans-serif;
+    letter-spacing: 2px;
+    margin-top: 0;
+    color: whitesmoke;
+}
+.sts{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+}
+.doing-task{
+    font-family: "Pixelify Sans", serif;
+    color: var(--dark-slate-gray);
+    font-size: 1.2rem;
+}
+.doing-task span{
+    color: white;
+}
+.App{
+    width: 100%;
+    height: 100lvh;
+    justify-content: center;
+}
+.App-hero{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.App .footer{
+    position: fixed;
+    bottom: 10px;
+    font-family: "Pixelify Sans", serif;
+    color: whitesmoke;
+    font-size: 1rem;
+}

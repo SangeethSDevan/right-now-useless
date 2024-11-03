@@ -40,7 +40,6 @@ const procrastinationQuotes = [
         text: "Every time I procrastinate, I get to discover something new. Today’s discovery? Just how relaxing procrastination can be."
     }
 ];
-
 export const getDistractions=()=>{
     let n=Math.floor(Math.random()*procrastinationQuotes.length);
 

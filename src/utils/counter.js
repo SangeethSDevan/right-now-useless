@@ -8,7 +8,7 @@ export const startCounting = () => {
             console.log(n);
             n--;
         } else {
-            console.log(getDistractions());
+            alert(getDistractions());
             clearInterval(intervalId);
         }
     }, 2000)
