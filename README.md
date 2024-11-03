@@ -1,70 +1,57 @@
-# [Project Name] 🎯
-Right Now?
+<img width="1280" alt="readme-banner" src="https://github.com/user-attachments/assets/35332e92-44cb-425b-9dff-27bcf1023c6c">
+
+# Right Now? 🎯
 
 ## Basic Details
-### Team Name: [404]
+### Team Name: 404
 
 
 ### Team Members
-- Team Lead: [Sangeeth S Devan] - [Muthoot Institute of technology and science]
-- Member 2: [Jithin P R] - [Muthoot Institute of technology and science]
-- Member 3: [Joseph V Cherish] - [Muthoot Institute of technology and science]
+- Team Lead: Sangeeth S Devan - Muthoot Institute of technology and science
+- Member 2: Jithin P R - Muthoot Institute of technology and science
+- Member 3: Joseph V Cherish - Muthoot Institute of technology and science
 
 ### Project Description
-[2-3 lines about what your project does]
+If tomorrow isn't the due date,then today isn't the do-date
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+In the world of busy deadlines we don't have the time for procastinating, while our app is providing more ways to procastinate your tasks. As we all know there is no thrill in doing the task before the deadline
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+Our app provides random messages that allow you to get reasons for procastinating
 
 ## Technical Details
 ### Technologies/Components Used
-For Software:
-- Javascript
-- MongoDB 
-- Express 
-- React
-- Node. js.
+  -React JS
+  
 # Installation
 Clone the repository: git clone https://github.com/S4xthhhhh/note-book.git
-Navigate to the frontend directory: cd note-book/frontend
-Install dependencies: npm install
-Navigate to the backend directory:cd notebook/backend
+Navigate to the project folder: cd right-now-useless
 Install dependencies: npm install
 # Run
-Start the server: node server.js
-Start the frontend:npm run dev
+Start the website:npm run dev
 Open your browser and visit: http://localhost:5173
-:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+![Screenshot1](https://drive.google.com/uc?export=view&id=1Pcgt3FqmUJ7jOdAPkYGprtxp0UZRiPfB)
+*Home Screen with one task*
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+![Screenshot2](https://drive.google.com/uc?export=view&id=1YI-qnv73LquUWxrzUAb1ZCaRv_fij0iZ)
+*HomeScreen when a task is started*
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+![Screenshot3](https://drive.google.com/uc?export=view&id=1NALpbFkSe_bW4y1_xUArp-jfbhUkiicr)
+*App Giving motivation to procastinate*
 
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
 
 ### Project Demo
 # Video
 [Add your demo video link here]
 *Explain what the video demonstrates*
 
-# Additional Demos
-[Add any extra demo materials/links]
-
 ## Team Contributions
-- [Sangeeth S Devan]: [Code]
-- [Jithin]: [Idea]
-- [Joseph]: [Design]
+- Sangeeth S Devan: Code
+- Jithin: Idea
+- Joseph: Design
 
 
 
