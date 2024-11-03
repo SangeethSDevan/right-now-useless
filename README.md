@@ -18,7 +18,7 @@ If tomorrow isn't the due date,then today isn't the do-date
 In the world of busy deadlines we don't have the time for procastinating, while our app is providing more ways to procastinate your tasks. As we all know there is no thrill in doing the task before the deadline
 
 ### The Solution (that nobody asked for)
-Our app provides random messages that allow you to get reasons for procastinating
+"Let’s dip your toes in procrastination for a bit. Remember, the water might just be a tiny bit warmer... if you wait long enough!"
 
 ## Technical Details
 ### Technologies/Components Used

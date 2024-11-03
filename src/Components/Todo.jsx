@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react'
 import { attach } from '../assets/assets';
 import Card from './Card';
-import { startCounting } from '../utils/Counter';
+import { startCounting } from '../utils/counter';
 import "./Todo.css"
 
 function Todo(props) {
