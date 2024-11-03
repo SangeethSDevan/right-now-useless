@@ -45,8 +45,8 @@ Open your browser and visit: http://localhost:5173
 
 ### Project Demo
 # Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
+
+[![Video](https://drive.google.com/uc?export=view&id=1Pcgt3FqmUJ7jOdAPkYGprtxp0UZRiPfB)](https://drive.google.com/file/d/1D71rk4jRw9l5Yhav1zay9w7nQ9eOcSNI/view?usp=sharing)
 
 ## Team Contributions
 - Sangeeth S Devan: Code
