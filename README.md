@@ -42,6 +42,9 @@ In the world of busy deadlines we don't have the time for procastinating, while 
 ![Screenshot3](https://drive.google.com/uc?export=view&id=1NALpbFkSe_bW4y1_xUArp-jfbhUkiicr)
 *App Giving motivation to procastinate*
 
+# Diagrams
+![Workflow](https://drive.google.com/uc?export=view&id=1zUKyVgaUSApT560Rfeq9X8acMvTO9LHo)
+*The app motivates us to do procrastination by giving some random messages about motivating to do procrastination. While starting or ending a task this app again gives options to do procrastination and if you decided to procrastinate the task this app will play a random YouTube video*
 
 ### Project Demo
 # Video
@@ -52,6 +55,13 @@ In the world of busy deadlines we don't have the time for procastinating, while 
 - Sangeeth S Devan: Code
 - Jithin: Idea
 - Joseph: Design
+
+---
+Made with ❤️ at TinkerHub Useless Projects 
+
+![Static Badge](https://img.shields.io/badge/TinkerHub-24?color=%23000000&link=https%3A%2F%2Fwww.tinkerhub.org%2F)
+![Static Badge](https://img.shields.io/badge/UselessProject--24-24?link=https%3A%2F%2Fwww.tinkerhub.org%2Fevents%2FQ2Q1TQKX6Q%2FUseless%2520Projects)
+
 
 
 
